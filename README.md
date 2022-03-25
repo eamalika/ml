@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/eamalika/ml">
-    <img src="https://user-images.githubusercontent.com/49315235/160208675-1038e540-abaa-43eb-959c-0a389eff3e65.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/49315235/160208675-1038e540-abaa-43eb-959c-0a389eff3e65.png" alt="Project">
   </a>
 
 <h3 align="center">Yoga poses detector using Machine Learning</h3>
@@ -33,17 +33,6 @@
     
   </p>
 </div>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
